@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+<<<<<<< HEAD:NewProject/NewProject/obj/NewProject144.csproj.nuget.g.props
+<<<<<<< HEAD
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Davit\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Student\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> d30f2167586c3ecbfcdb5af459164dd80b766e9b
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\User\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> cd4f37fdb6a0e9c80fb10327aeca8d8d4bed8b09:NewProject/NewProject/obj/NewProject93.csproj.nuget.g.props
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.2.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD:NewProject/NewProject/obj/NewProject144.csproj.nuget.g.props
+<<<<<<< HEAD
+    <SourceRoot Include="C:\Users\Davit\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+=======
+    <SourceRoot Include="C:\Users\Student\.nuget\packages\" />
+>>>>>>> d30f2167586c3ecbfcdb5af459164dd80b766e9b
+=======
+    <SourceRoot Include="C:\Users\User\.nuget\packages\" />
+>>>>>>> cd4f37fdb6a0e9c80fb10327aeca8d8d4bed8b09:NewProject/NewProject/obj/NewProject93.csproj.nuget.g.props
+  </ItemGroup>
+</Project>

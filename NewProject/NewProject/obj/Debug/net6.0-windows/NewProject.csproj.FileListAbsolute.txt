@@ -1,0 +1,92 @@
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.exe
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.deps.json
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.runtimeconfig.json
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.dll
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\ref\NewProject.dll
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.pdb
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject1.DoorControl.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.Form1.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.User.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.FormRegistr.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.Graph.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.AssemblyInfo.cs
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.CopyComplete
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.dll
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\ref\NewProject.dll
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.pdb
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.genruntimeconfig.cache
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.exe
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.deps.json
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.runtimeconfig.json
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.dll
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.pdb
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject1.DoorControl.resources
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.Form1.resources
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.User.resources
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.FormRegistr.resources
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.Graph.resources
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.AssemblyInfo.cs
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.CopyComplete
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.dll
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\refint\NewProject.dll
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.pdb
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.genruntimeconfig.cache
+C:\Users\user\Desktop\Task 0.7\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\ref\NewProject.dll
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.exe
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.deps.json
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.runtimeconfig.json
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.dll
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.pdb
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject1.DoorControl.resources
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.Form1.resources
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.User.resources
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.FormRegistr.resources
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.Graph.resources
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.AssemblyInfo.cs
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.CopyComplete
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.dll
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\refint\NewProject.dll
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.pdb
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.genruntimeconfig.cache
+C:\Users\user\Desktop\newfireexit\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\ref\NewProject.dll
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.exe
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.dll
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject1.DoorControl.resources
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.Form1.resources
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.User.resources
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.FormRegistr.resources
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.Graph.resources
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.AssemblyInfo.cs
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.csproj.CopyComplete
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.dll
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\refint\NewProject.dll
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.pdb
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.deps.json
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.runtimeconfig.json
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\bin\Debug\net6.0-windows\NewProject.pdb
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.genruntimeconfig.cache
+C:\Users\User\Desktop\ArDesk\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\ref\NewProject.dll

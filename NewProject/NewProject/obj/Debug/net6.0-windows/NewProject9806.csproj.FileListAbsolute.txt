@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.Form1.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.User.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.FormRegistr.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject.Graph.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net6.0-windows\NewProject9806.csproj.GenerateResource.cache

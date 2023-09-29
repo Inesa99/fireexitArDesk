@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.DoorControl.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.Form1.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.Form2.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.FormRegistr.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.Graph.resources
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.AssemblyInfo.cs
+C:\Users\Student\Desktop\Aren\fireexit\NewProject\NewProject\obj\Debug\net472\NewProject.csproj.CoreCompileInputs.cache

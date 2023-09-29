@@ -1,0 +1,18 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+<<<<<<< HEAD:NewProject/NewProject/obj/Debug/netcoreapp3.1/NewProject144.GeneratedMSBuildEditorConfig.editorconfig
+build_property.RootNamespace = NewProject144
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\Davit\source\repos\fireexit\NewProject\NewProject\
+=======
+build_property.ProjectDir = C:\Users\Student\Source\Repos\fireexit\NewProject\NewProject\
+>>>>>>> d30f2167586c3ecbfcdb5af459164dd80b766e9b
+=======
+build_property.RootNamespace = NewProject60
+build_property.ProjectDir = C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\
+>>>>>>> cd4f37fdb6a0e9c80fb10327aeca8d8d4bed8b09:NewProject/NewProject/obj/Debug/netcoreapp3.1/NewProject60.GeneratedMSBuildEditorConfig.editorconfig

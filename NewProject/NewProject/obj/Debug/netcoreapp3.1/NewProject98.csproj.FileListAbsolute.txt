@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject98.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject1.DoorControl.resources
+C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.Form1.resources
+C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.User.resources
+C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.FormRegistr.resources
+C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.Graph.resources
+C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject98.csproj.GenerateResource.cache
+C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject98.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject98.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject98.AssemblyInfo.cs
+C:\Users\User\Desktop\project\fireexit\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject98.csproj.CoreCompileInputs.cache
